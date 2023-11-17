@@ -1,5 +1,4 @@
 Website URL,Topics,Manual,Match,Empty
-trade.atlantiscex.com,['investing'],"['currencies & foreign exchange', 'finance', 'investing', 'advertising & marketing', 'business & industrial', 'financial planning & management', 'sales']",True,False
 sadlierconnect.com,"['primary & secondary schooling (k-12)', 'education']","['education', 'reference', 'colleges & universities', 'educational resources', 'jobs & education']",False,False
 webcampus.fdu.edu,"['arts & entertainment', 'colleges & universities']","['education', 'reference', 'colleges & universities', 'educational resources', 'jobs & education']",False,False
 www.softbank.jp,"['business & industrial', 'phone service providers']","['accounting & auditing', 'currencies & foreign exchange', 'finance', 'investing', 'credit cards', 'tax preparation & planning']",False,False
@@ -7,148 +6,88 @@ www.camif.fr,['business & industrial'],"['home improvement', 'home & garden', 'h
 codsaya.com,['news'],"['card games', 'travel & transportation', 'tourist destinations', 'acting & theater', 'games', 'arts & entertainment']",False,False
 www.livefans.jp,['concerts & music festivals'],"['live comedy', 'acting & theater', 'arts & entertainment', 'online video', 'humor']",False,False
 glitch.com,['business & industrial'],"['web design & development', 'programming', 'web apps & online tools', 'computers & electronics', 'internet & telecom']",False,False
-lms.igdir.edu.tr,['colleges & universities'],"['education', 'reference', 'colleges & universities', 'educational resources', 'jobs & education']",True,False
-dembuon.vn,['online communities'],"['forum & chat providers', 'news', 'local news', 'social networks', 'online communities']",True,False
-imsis-djpu.dephub.go.id,['law & government'],"['travel & transportation', 'business & industrial', 'air travel', 'law & government', 'aviation industry']",True,False
-weltwoche.ch,['news'],"['forum & chat providers', 'online communities', 'news', 'local news']",True,False
 www.casper.com.tr,"['arts & entertainment', 'tv & video']","['computers & electronics', 'shopping', 'laptops & notebooks']",False,False
 jedileri.ba,['news'],"['legal', 'business & industrial', 'law & government', 'construction & maintenance', 'human resources', 'business operations', 'legal services']",False,False
 playsports.sbobet.com,"['sports', 'soccer', 'news']","['arts & entertainment', 'sports', 'live sporting events']",False,False
 www.dvauction.com,"['shopping', 'business & industrial']","['advertising & marketing', 'business & industrial', 'live sporting events', 'arts & entertainment', 'sales', 'online video']",False,False
 web.bpl.net,['banking'],"['web apps & online tools', 'computers & electronics', 'software', 'operating systems', 'internet & telecom']",False,False
-www.anandabazar.com,['news'],"['forum & chat providers', 'news', 'politics', 'local news', 'online communities']",True,False
 direct.uber.com,"['car rentals', 'arts & entertainment']","['travel & transportation', 'car rentals', 'business & industrial', 'automotive industry']",False,False
-www.webcamjackers.com,['arts & entertainment'],"['arts & entertainment', 'entertainment industry', 'people & society', 'online video']",True,False
 www.fust.ch,['business news'],"['shopping', 'computers & electronics', 'home & garden']",False,False
 silfmonitoraggio.regione.campania.it,['law & government'],"['computers & electronics', 'business operations', 'business & industrial', 'human resources']",False,False
 gamesfull.app,"['internet & telecom', 'computer & video games']","['forum & chat providers', 'computer & video games', 'movie listings & theater showtimes', 'games', 'arts & entertainment', 'online communities']",False,False
 www.laprensalara.com.ve,"['local news', 'news']","['arts & entertainment', 'sports', 'news', 'live sporting events']",False,False
 shop.globomoda.com,"['fashion & style', 'shopping', 'apparel']","['beauty & fitness', 'travel & transportation', 'luggage & travel accessories', 'shopping', 'fashion & style']",False,False
-www.iplusonego.com,['shopping'],"['advertising & marketing', 'business & industrial', 'shopping', 'computers & electronics', 'sales']",True,False
 trans.info,['business & industrial'],"['news', 'travel & transportation', 'cargo trucks & trailers', 'long distance bus & rail', 'autos & vehicles']",False,False
 www.myflfamilies.com,"['law & government', 'people & society']","['people & society', 'news', 'local news', 'home & garden', 'family & relationships', 'home safety & security']",False,False
-easy-firmware.com,"['software', 'internet & telecom']","['forum & chat providers', 'smart phones', 'computers & electronics', 'software', 'internet & telecom', 'online communities']",True,False
 www.adecco.fr,"['recruitment & staffing', 'job listings']","['news', 'internet & telecom', 'web apps & online tools', 'jobs & education', 'local news', 'jobs', 'career resources & planning']",False,False
 thesimplehelp.com,['books & literature'],"['forum & chat providers', 'jobs & education', 'jobs', 'career resources & planning', 'online communities']",False,False
-cl.jooble.org,['job listings'],"['finance', 'jobs & education', 'jobs', 'career resources & planning', 'job listings']",True,False
-www.indiansexhub.com,[],"['arts & entertainment', 'entertainment industry', 'online video', 'acting & theater']",False,True
-www.samagra.gov.in,['law & government'],"['law & government', 'people & society', 'ancestry & genealogy', 'family & relationships']",True,False
 www.hb-nippon.com,"['baseball', 'primary & secondary schooling (k-12)', 'sports', 'news']","['forum & chat providers', 'news', 'politics', 'local news', 'online communities']",False,False
-m.4d88.asia,[],"['forum & chat providers', 'live sporting events', 'sports', 'arts & entertainment', 'online communities']",False,True
-www.tamilvu.org,['colleges & universities'],"['education', 'reference', 'colleges & universities', 'distance learning', 'jobs & education', 'educational resources']",True,False
 www.pcworld.pl,"['computers & electronics', 'news']","['web apps & online tools', 'home appliances', 'computers & electronics', 'home & garden', 'internet & telecom']",False,False
 skemaraja.dephub.go.id,['law & government'],"['travel & transportation', 'hotels & accommodations']",False,False
 www.codmon.com,"['autos & vehicles', 'shopping', 'vehicle parts & accessories']","['education', 'colleges & universities', 'jobs & education', 'early childhood education']",False,False
-aiotechnical.com,[],"['finance', 'insurance', 'acting & theater', 'computers & electronics', 'arts & entertainment']",False,True
-dashboard.dittomusic.com,['music & audio'],"['arts & entertainment', 'concerts & music festivals', 'entertainment industry', 'music & audio']",True,False
 www.enligne.parionssport.fdj.fr,"['sports', 'sporting goods']","['arts & entertainment', 'sports', 'finance', 'live sporting events']",False,False
-m.sportmaster.kz,['shopping'],"['shopping', 'sports', 'finance', 'financial planning & management']",True,False
-www.brocardi.it,['law & government'],"['legal', 'legal services', 'law & government', 'crime & justice']",True,False
-www.bhajandiary.com,[],"['arts & entertainment', 'online communities', 'dating & personals', 'music & audio']",False,True
-www.al-hamdoulillah.com,[],"['forum & chat providers', 'online communities', 'social networks']",False,True
 demonssouls.wiki.fextralife.com,"['roleplaying games', 'action & platform games', 'computer & video games']","['computer & video games', 'people & society', 'games', 'strategy games', 'action & platform games', 'science fiction & fantasy']",False,False
 onba.zkb.ch,"['credit & lending', 'banking']","['finance', 'investing', 'financial planning & management', 'credit cards', 'stocks & bonds']",False,False
 sakti123.co,"['business & industrial', 'internet & telecom']","['finance', 'investing', 'card games', 'games', 'online communities']",False,False
 www.comingsoon.it,"['movies', 'tv & video']","['news', 'politics', 'movies', 'arts & entertainment', 'online video']",False,False
-www.yanolja.com,['travel & transportation'],"['travel & transportation', 'hotels & accommodations', 'people & society', 'family & relationships']",True,False
 put888a.com,['colleges & universities'],"['arts & entertainment', 'online communities', 'finance', 'investing']",False,False
 www.saamana.com,['people & society'],"['online communities', 'news', 'politics', 'local news']",False,False
 www.mondelezinternational.com,['hobbies & leisure'],"['food & drink', 'cooking & recipes', 'agriculture & forestry', 'business & industrial', 'healthy eating']",False,False
 apps-lb.rapidrad.com,"['online communities', 'music & audio']","['finance', 'hospitality industry', 'insurance', 'web apps & online tools', 'business & industrial', 'health insurance', 'internet & telecom']",False,False
 animelek.me,"['tv & video', 'comics & animation', 'arts & entertainment']","['animated films', 'tv shows & programs', 'movies', 'arts & entertainment', 'online video']",False,False
 www.superdry.in,['online communities'],"[""men's clothing"", 'beauty & fitness', ""women's clothing"", 'shopping', 'fashion & style']",False,False
-nova24.uz,['local news'],"['sports', 'people & society', 'news', 'local news']",True,False
-juegos.loteria.cl,[],"['home & garden', 'home & interior decor']",False,True
 eroticmv.com,"['movie & tv streaming', 'movies']","['arts & entertainment', 'entertainment industry', 'online video', 'movies']",False,False
 videoportal.joj.sk,"['movie & tv streaming', 'tv & video']","['arts & entertainment', 'movies', 'online video', 'tv shows & programs']",False,False
-lnmuniversity.com,['colleges & universities'],"['education', 'reference', 'colleges & universities', 'educational resources', 'jobs & education']",True,False
-www.mittelbayerische.de,"['local news', 'news']","['online communities', 'sports', 'news', 'local news']",True,False
 emploi.educarriere.ci,['job listings'],"['legal', 'jobs & education', 'jobs', 'law & government', 'career resources & planning', 'legal services']",False,False
 fcbayern.com,"['sports', 'soccer', 'news']","['arts & entertainment', 'sports', 'online communities', 'live sporting events']",False,False
-www.healthtap.com,[],"['beauty & fitness', 'finance', 'insurance', 'web apps & online tools', 'health insurance', 'internet & telecom']",False,True
-hudo.com,['arts & entertainment'],"['arts & entertainment', 'sports', 'news']",True,False
-www.mdanderson.org,[],"['finance', 'insurance', 'science', 'jobs & education', 'health insurance']",False,True
 expressjs.com,['news'],"['computers & electronics', 'internet & telecom', 'web design & development', 'programming']",False,False
-www.bayareafastrak.org,['travel & transportation'],"['travel & transportation', 'hotels & accommodations', 'finance', 'financial planning & management']",True,False
-sms-activate.org,['phone service providers'],"['isps', 'internet & telecom', 'phone service providers', 'text & instant messaging']",True,False
 wrestletalk.com,"['celebrities & entertainment news', 'combat sports']","['news', 'wrestling', 'arts & entertainment', 'sports', 'online video']",False,False
 www.colgate.com,['hygiene & toiletries'],"['beauty & fitness', 'people & society', 'clean beauty', 'face & body care', 'bath & body products']",False,False
 www.trial-net.co.jp,['internet service providers (isps)'],"['machine learning & artificial intelligence', 'science', 'business & industrial', 'retail trade', 'business operations']",False,False
 career.indomaretgroup.com,['job listings'],"['finance', 'business & industrial', 'jobs & education', 'financial planning & management', 'jobs', 'retail trade', 'career resources & planning']",False,False
-www.tgcom24.mediaset.it,"['news', 'arts & entertainment']","['news', 'politics', 'tv shows & programs', 'arts & entertainment', 'sports']",True,False
 www.bergzeit.de,['hiking & camping'],"['fashion & style', 'beauty & fitness', 'fitness', 'sports']",False,False
 streamvid.net,"['online communities', 'tv & video', 'arts & entertainment']","['arts & entertainment', 'entertainment industry', 'online video', 'tv shows & programs']",False,False
 alottovip.co,['news'],"['online communities', 'finance', 'investing', 'stocks & bonds']",False,False
 www.fanfiction.net,['fan fiction'],"['online communities', 'forum & chat providers', 'books & literature', 'arts & entertainment']",False,False
 brave.com,['arts & entertainment'],"['web browsers', 'network security', 'computers & electronics', 'software', 'internet & telecom']",False,False
-grupovenus.com,[],"['science', 'online communities', 'people & society']",False,True
-elearn.etsu.edu,"['distance learning', 'colleges & universities']","['education', 'reference', 'colleges & universities', 'distance learning', 'educational resources', 'jobs & education']",True,False
 registroestudiantes.fevp.gob.ve,['colleges & universities'],"['business & industrial', 'law & government', 'home & garden', 'construction & maintenance', 'landscape design']",False,False
 asiemodel.net,"['computers & electronics', 'education', 'visual art & design']","['education', 'distance learning', 'jobs & education', 'vocational & continuing education', 'jobs', 'career resources & planning']",False,False
-www.thetimes.co.uk,['news'],"['arts & entertainment', 'sports', 'news', 'politics']",True,False
-www.imedi.ge,[],"['arts & entertainment', 'live sporting events', 'online video', 'tv shows & programs']",False,True
 www.nkd.com,"['home & interior decor', 'apparel']","['beauty & fitness', 'home & garden', 'home & interior decor', 'fashion & style', 'home improvement']",False,False
 www.khabarfoori.com,"['local news', 'news']","['arts & entertainment', 'sports', 'news', 'politics']",False,False
 suite.sogiscuola.com,"['primary & secondary schooling (k-12)', 'standardized & admissions tests']","['education', 'web apps & online tools', 'distance learning', 'jobs & education', 'internet & telecom']",False,False
-bolt.bloomu.edu,"['colleges & universities', 'distance learning']","['education', 'reference', 'colleges & universities', 'distance learning', 'educational resources', 'jobs & education']",True,False
-www.toyota.com.au,"['autos & vehicles', 'vehicle shopping']","['vehicle shopping', 'business & industrial', 'autos & vehicles', 'automotive industry']",True,False
 developer.android.com,"['internet & telecom', 'mobile phones', 'computers & electronics']","['smart phones', 'computers & electronics', 'operating systems', 'software', 'internet & telecom']",False,False
 www.dish.com,"['service providers', 'cable & satellite providers']","['arts & entertainment', 'live sporting events', 'tv shows & programs']",False,False
-fra.3hentai.net,[],"['animated films', 'comics', 'entertainment industry', 'movies', 'arts & entertainment']",False,True
 www.dominos.nl,['pizzerias'],"['food & drink', 'advertising & marketing', 'agriculture & forestry', 'business & industrial', 'food production', 'sales']",False,False
-s.kosokubus.com,['long distance bus & rail'],"['travel & transportation', 'hotels & accommodations', 'outdoors', 'long distance bus & rail', 'hobbies & leisure']",True,False
 loadedfiles.com,"['web services', 'online communities']","['computers & electronics', 'internet & telecom', 'networking', 'distributed & cloud computing']",False,False
-verizon-airgchates.airg.ca,['online communities'],"['forum & chat providers', 'computer & video games', 'games', 'online communities', 'dating & personals']",True,False
 www.grubiks.com,['arts & entertainment'],"['computer & video games', 'programming', 'web apps & online tools', 'computers & electronics', 'games', 'strategy games', 'internet & telecom']",False,False
-hentai18.net,[],"['animated films', 'comics', 'entertainment industry', 'movies', 'arts & entertainment']",False,True
-chikubi.jp,[],"['animated films', 'comics', 'entertainment industry', 'movies', 'arts & entertainment']",False,True
-truehookup.com,[],"['people & society', 'social networks', 'family & relationships', 'online communities', 'dating & personals']",False,True
-www.sexetag.com,[],"['people & society', 'entertainment industry', 'acting & theater', 'family & relationships', 'arts & entertainment']",False,True
 vodiy.ua,"['autos & vehicles', 'law & government', 'education']","['standardized & admissions tests', 'education', 'travel & transportation', 'jobs & education', 'automotive industry', 'business & industrial']",False,False
 astv.ru,"['local news', 'internet & telecom', 'arts & entertainment']","['talk radio', 'news', 'music & audio', 'tv shows & programs', 'arts & entertainment']",False,False
 qquing.net,['comics & animation'],"['forum & chat providers', 'comics', 'entertainment industry', 'arts & entertainment', 'online communities']",False,False
-especiais.gazetadopovo.com.br,['news'],"['arts & entertainment', 'news', 'jobs & education']",True,False
-www.pornizle.tv,[],"['people & society', 'entertainment industry', 'acting & theater', 'family & relationships', 'arts & entertainment']",False,True
 plus.wowma.jp,"['computer & video games', 'arts & entertainment']","['beauty & fitness', 'food & drink', 'food & grocery retailers', 'fashion & style', 'sports']",False,False
 hydrogenexecutor.com,"['roleplaying games', 'computer & video games']","['computer & video games', 'web apps & online tools', 'games', 'internet & telecom', 'online communities']",False,False
-www.desiporny.com,[],"['people & society', 'entertainment industry', 'acting & theater', 'family & relationships', 'arts & entertainment']",False,True
 lilluna.com,['hobbies & leisure'],"['food & drink', 'cooking & recipes', 'arts & entertainment', 'online communities', 'online video']",False,False
 www.fashiongo.net,"['fashion & style', 'apparel']","['beauty & fitness', 'business & industrial', 'home & garden', 'home & interior decor', 'retail trade', 'fashion & style']",False,False
 www.poco.de,"['mass merchants & department stores', 'building materials & supplies', 'home & garden']","['home appliances', 'home improvement', 'home & garden', 'home & interior decor']",False,False
 t.rasp.yandex.by,['business & industrial'],"['travel & transportation', 'air travel', 'travel guides & travelogues', 'long distance bus & rail']",False,False
-www.olgasmile.com,['food & drink'],"['books & literature', 'cooking & recipes', 'healthy eating', 'food & drink']",True,False
 www.koimoi.com,['movies'],"['arts & entertainment', 'news', 'tv shows & programs']",False,False
 www.am.com.mx,"['local news', 'news']","['sports', 'people & society', 'news']",False,False
 mvtk.jp,"['celebrities & entertainment news', 'news']","['arts & entertainment', 'movie listings & theater showtimes', 'movies', 'acting & theater']",False,False
 www.eastpak.com,['investing'],"['beauty & fitness', 'education', 'travel & transportation', 'jobs & education', 'adventure travel', 'fashion & style']",False,False
 www.fomos.kr,['arts & entertainment'],"['sports', 'news', 'games']",False,False
 www.trafalgar.com,"['arts & entertainment', 'news']","['travel & transportation', 'travel guides & travelogues', 'tourist destinations', 'adventure travel']",False,False
-www.fastweb.com,[],"['finance', 'student loans & college financing', 'education', 'reference', 'colleges & universities', 'jobs & education', 'educational resources']",False,True
 m.email.tiscali.cz,['internet & telecom'],"['travel & transportation', 'sports', 'news']",False,False
-beastiality.tv,[],"['arts & entertainment', 'entertainment industry', 'pets & animals', 'hobbies & leisure']",False,True
-www.pornocarioca.com,[],"['people & society', 'entertainment industry', 'acting & theater', 'family & relationships', 'arts & entertainment']",False,True
-www.nursexfilme.com,[],"['people & society', 'entertainment industry', 'acting & theater', 'family & relationships', 'arts & entertainment']",False,True
 www.tabroom.com,"['primary & secondary schooling (k-12)', 'colleges & universities', 'people & society']","['hobbies & leisure', 'reference', 'educational resources', 'jobs & education']",False,False
-www.illicitencounters.com,['online communities'],"['people & society', 'marriage', 'entertainment industry', 'family & relationships', 'arts & entertainment', 'online communities', 'dating & personals']",True,False
-sexvcc.xyz,[],"['people & society', 'entertainment industry', 'acting & theater', 'family & relationships', 'arts & entertainment']",False,True
-www.pornobonjour.com,[],"['people & society', 'entertainment industry', 'acting & theater', 'family & relationships', 'arts & entertainment']",False,True
 www.netonnet.se,['shopping'],"['computer & video games', 'tv shows & programs', 'computers & electronics', 'games', 'arts & entertainment']",False,False
-www.extremechat.com,[],"['forum & chat providers', 'people & society', 'entertainment industry', 'family & relationships', 'arts & entertainment', 'online communities']",False,True
 bimeh.com,['arts & entertainment'],"['travel insurance', 'insurance', 'auto insurance', 'finance']",False,False
 kurashinista.jp,"['cooking & recipes', 'hobbies & leisure', 'people & society']","['arts & entertainment', 'cooking & recipes', 'shopping', 'food & drink']",False,False
 forum.giants-software.com,"['enterprise technology', 'business & industrial']","['forum & chat providers', 'computers & electronics', 'social networks', 'software', 'online communities']",False,False
 asia.kporama.net,['movie & tv streaming'],"['arts & entertainment', 'online video', 'movies', 'tv shows & programs']",False,False
 www.gotquestions.org,['books & literature'],"['forum & chat providers', 'online communities', 'people & society']",False,False
-www.wazaef4u.net,['job listings'],"['news', 'jobs & education', 'jobs', 'career resources & planning', 'job listings']",True,False
 www.footasylum.com,"['footwear', 'outerwear', 'mass merchants & department stores', 'athletic apparel']","['fashion & style', 'shopping', 'beauty & fitness', 'fitness']",False,False
-www.carenzorgt.nl,[],"['finance', 'insurance', 'web apps & online tools', 'science', 'biological sciences', 'health insurance', 'internet & telecom']",False,True
-xxlnutrition.com,['cooking & recipes'],"['bodybuilding', 'beauty & fitness', 'food & drink', 'fitness', 'cooking & recipes', 'shopping', 'healthy eating']",True,False
 www.bax-shop.fr,"['arts & entertainment', 'tv & video']","['consumer electronics', 'music & audio', 'musical instruments', 'computers & electronics', 'arts & entertainment']",False,False
 garantiasafra.mda.gov.br,"['arts & entertainment', 'tv & video', 'music & audio']","['legal', 'travel & transportation', 'agriculture & forestry', 'regional parks & gardens', 'tourist destinations', 'business & industrial', 'law & government', 'legal services']",False,False
 krasnodar.leroymerlin.ru,"['mass merchants & department stores', 'building materials & supplies']","['home improvement', 'shopping', 'home & garden', 'home & interior decor']",False,False
 www3.citizensbankonline.com,['banking'],"['currencies & foreign exchange', 'finance', 'investing', 'financial planning & management']",False,False
-healthmatch.io,[],"['consumer resources', 'forum & chat providers', 'finance', 'insurance', 'health insurance', 'shopping', 'online communities']",False,True
-www.santhionlineplants.com,['gardening'],"['food & drink', 'gardening', 'cooking & recipes', 'home & garden', 'home & interior decor', 'healthy eating']",True,False
 www.sportmaster.ru,"['fitness equipment & accessories', 'athletic apparel', 'sporting goods']","['fashion & style', 'shopping', 'beauty & fitness', 'sports']",False,False
 www.bs-tvtokyo.co.jp,['tv & video'],"['arts & entertainment', 'tv shows & programs', 'news', 'music & audio']",False,False
 regiojet.cz,"['law & government', 'business & industrial']","['travel & transportation', 'air travel', 'travel guides & travelogues', 'tourist destinations']",False,False
@@ -158,152 +97,76 @@ himado.in,"['comics & animation', 'tv & video', 'arts & entertainment']","['anim
 www.garagejournal.com,['building materials & supplies'],"['forum & chat providers', 'outdoors', 'hobbies & leisure', 'online communities', 'autos & vehicles']",False,False
 gt.siman.com,['autos & vehicles'],"['shopping', 'beauty & fitness', 'home & garden']",False,False
 zonas.mobi,"['mobile phones', 'phone service providers']","['computer & video games', 'competitive video gaming', 'games', 'strategy games', 'online communities']",False,False
-surabaya.kompas.com,['news'],"['news', 'automotive industry', 'business & industrial', 'arts & entertainment', 'online video']",True,False
-gbwhatsapp.pk,['internet & telecom'],"['text & instant messaging', 'computers & electronics', 'social networks', 'software', 'internet & telecom', 'online communities']",True,False
 www.kueskipay.com,['credit & lending'],"['finance', 'advertising & marketing', 'personal loans', 'business & industrial', 'shopping', 'sales']",False,False
-aghanilyrics.com,['music & audio'],"['arts & entertainment', 'online video', 'music & audio', 'folk & traditional music']",True,False
 seriesturcas.org,"['tv & video', 'tv dramas', 'arts & entertainment']","['arts & entertainment', 'entertainment industry', 'online communities', 'online video']",False,False
 www.timesnownews.com,"['local news', 'business news', 'world news', 'celebrities & entertainment news']","['arts & entertainment', 'sports', 'online video', 'news']",False,False
-www.flirtingvibes.com,[],"['people & society', 'social networks', 'family & relationships', 'online communities', 'dating & personals']",False,True
 www.tiendeo.com.co,"['food & drink', 'mass merchants & department stores', 'food service']","['finance', 'food & drink', 'food & grocery retailers', 'financial planning & management', 'shopping']",False,False
 www.commbank.com.au,"['banking', 'credit & lending']","['credit cards', 'insurance', 'finance', 'financial planning & management']",False,False
 news.rambler.ru,"['internet & telecom', 'news', 'arts & entertainment']","['sports', 'finance', 'news']",False,False
 www.incruises.com,"['home & interior decor', 'visual art & design']","['travel guides & travelogues', 'travel & transportation', 'arts & entertainment', 'online video', 'cruises & charters']",False,False
 www.crimesite.nl,"['news', 'sports']","['crime & justice', 'law & government', 'news', 'local news']",False,False
-id.mail.ru,['internet & telecom'],"['internet & telecom', 'email']",True,False
 mhtcet2023.mahacet.org,"['cooking & recipes', 'business & industrial']","['standardized & admissions tests', 'education', 'reference', 'jobs & education', 'educational resources', 'law & government']",False,False
-hang.hu,['news'],"['arts & entertainment', 'books & literature', 'online video', 'news']",True,False
-smi24.kz,['local news'],"['economy news', 'sports', 'news', 'local news']",True,False
-jobsandhan.com,['job listings'],"['standardized & admissions tests', 'education', 'jobs & education', 'jobs', 'career resources & planning', 'job listings']",True,False
-biotus.ua,[],"['shopping', 'sports', 'pharmaceuticals & biotech', 'business & industrial']",False,True
-hdxxxx.org,[],"['people & society', 'entertainment industry', 'family & relationships', 'arts & entertainment', 'online video']",False,True
 subscribestar.adult,['online communities'],"['people & society', 'entertainment industry', 'family & relationships', 'arts & entertainment', 'online video']",False,False
 www.consorcionacionalhonda.com.br,"['autos & vehicles', 'auto financing', 'motorcycles']","['finance', 'insurance', 'auto insurance', 'vehicle shopping', 'autos & vehicles']",False,False
 www.vejthani.com,"['books & literature', 'arts & entertainment']","['beauty & fitness', 'finance', 'insurance', 'health insurance', 'arts & entertainment', 'online video']",False,False
-www.1000farmacie.it,[],"['make-up & cosmetics', 'beauty & fitness', 'pharmaceuticals & biotech', 'business & industrial', 'shopping', 'face & body care']",False,True
 www.boat-lifestyle.com,"['mobile & wireless accessories', 'headphones', 'watches', 'gadgets & portable electronics']","['shopping', 'consumer electronics', 'computers & electronics', 'wearable technology']",False,False
 bike.shimano.com,['bicycles & accessories'],"['consumer electronics', 'outdoors', 'computers & electronics', 'hobbies & leisure', 'autos & vehicles']",False,False
-masaolms.carsu.edu.ph,['colleges & universities'],"['education', 'reference', 'colleges & universities', 'distance learning', 'jobs & education', 'educational resources']",True,False
-www.lyricsindia.net,"['music & audio', 'movies']","['soundtracks', 'music & audio', 'world music', 'movies', 'arts & entertainment']",True,False
 www6.doramasprime.com,"['arts & entertainment', 'tv & video']","['arts & entertainment', 'online video', 'movies', 'tv shows & programs']",False,False
-privilege.trueid.net,[],"['consumer resources', 'finance', 'coupons & discount offers', 'financial planning & management', 'shopping']",False,True
-pcmac.download,['software'],"['computer & video games', 'web apps & online tools', 'computers & electronics', 'software', 'games', 'internet & telecom']",True,False
-www.scotsman.com,['news'],"['sports', 'news', 'food & drink']",True,False
 www.novodistribuciones.com,"['hobbies & leisure', 'party & holiday supplies', 'people & society']","['shopping', 'party & holiday supplies', 'news']",False,False
-www.zharar.com,[],"['online communities', 'books & literature', 'people & society', 'poetry']",False,True
-www.gndi.com.br,['health insurance'],"['finance', 'insurance', 'financial planning & management', 'business & industrial', 'health insurance']",True,False
 www.panadol.com,['online communities'],"['science', 'pharmaceuticals & biotech', 'business & industrial', 'chemistry', 'biological sciences']",False,False
-www.uts.edu.au,['colleges & universities'],"['education', 'reference', 'colleges & universities', 'jobs & education', 'educational resources']",True,False
 onlinegu.in,"['investing', 'computer & video games']","['standardized & admissions tests', 'education', 'reference', 'colleges & universities', 'jobs & education', 'educational resources']",False,False
 m.tworld.co.kr,['news'],"['consumer resources', 'coupons & discount offers', 'smart phones', 'shopping', 'internet & telecom']",False,False
 helpx.adobe.com,['photo & video software'],"['consumer resources', 'photographic & digital arts', 'visual art & design', 'computers & electronics', 'shopping', 'software', 'arts & entertainment']",False,False
 wiki.ffo.jp,"['roleplaying games', 'computer & video games']","['consumer resources', 'forum & chat providers', 'computer & video games', 'adventure games', 'shopping', 'games', 'online communities']",False,False
-psconline.psc.gov.np,['standardized & admissions tests'],"['standardized & admissions tests', 'education', 'jobs & education', 'jobs', 'law & government', 'career resources & planning']",True,False
 www.mpowerfinancing.com,['business news'],"['study grants & scholarships', 'finance', 'student loans & college financing', 'education', 'jobs & education', 'vocational & continuing education', 'grants, scholarships & financial aid']",False,False
-www.netmums.com,"['parenting', 'online communities']","['babies & toddlers', 'forum & chat providers', 'people & society', ""children's clothing"", 'shopping', 'family & relationships', 'online communities', 'parenting']",True,False
 kprofiles.com,"['pop music', 'celebrities & entertainment news', 'music & audio']","['people & society', 'music & audio', 'pop music', 'dance', 'family & relationships', 'arts & entertainment']",False,False
 fanfics.me,['fan fiction'],"['people & society', 'tv shows & programs', 'books & literature', 'arts & entertainment', 'science fiction & fantasy']",False,False
 natalie.mu,['celebrities & entertainment news'],"['music & audio', 'live comedy', 'comics', 'arts & entertainment', 'humor']",False,False
-www.achgut.com,[],"['news', 'politics', 'legal', 'shopping', 'law & government']",False,True
 www.buscalibre.com.co,"['mass merchants & department stores', 'book retailers']","['arts & entertainment', 'shopping', 'books & literature', 'comics']",False,False
-www.treasurydirect.gov,['investing'],"['finance', 'investing', 'legal', 'financial planning & management', 'law & government', 'legal services', 'stocks & bonds']",True,False
-www.time.ir,[],"['internet & telecom', 'sports', 'web apps & online tools', 'reference']",False,True
-www.boscovs.com,['shopping'],"['consumer resources', 'coupons & discount offers', 'shopping', 'home & garden', 'home & interior decor']",True,False
-waarneming.nl,['pets & animals'],"['photographic & digital arts', 'visual art & design', 'pets', 'pets & animals', 'birds', 'arts & entertainment', 'online image galleries']",True,False
-smart.keibalab.jp,"['sports', 'news']","['news', 'equestrian', 'live sporting events', 'arts & entertainment', 'sports']",True,False
 ru.pinterest.com,"['social networks', 'online communities']","['photographic & digital arts', 'visual art & design', 'arts & entertainment', 'online communities', 'online image galleries']",False,False
-uk.m.wikipedia.org,[],"['education', 'reference', 'jobs & education', 'educational resources', 'search engines', 'internet & telecom']",False,True
 www.polaris.com,['arts & entertainment'],"['travel & transportation', 'adventure travel', 'skiing & snowboarding', 'sports', 'autos & vehicles']",False,False
 dragontranslation.net,['comics & animation'],"['animated films', 'comics', 'entertainment industry', 'movies', 'arts & entertainment']",False,False
 www.skynova.com,['accounting & auditing'],"['advertising & marketing', 'web apps & online tools', 'business & industrial', 'computers & electronics', 'software', 'sales', 'internet & telecom']",False,False
-www.careerboutique.com,['job listings'],"['internet & telecom', 'jobs & education', 'jobs', 'search engines', 'career resources & planning', 'job listings']",True,False
-www.go4worldbusiness.com,['business & industrial'],"['shopping', 'manufacturing', 'retail trade', 'business & industrial']",True,False
 ostpk.com,"['arts & entertainment', 'tv & video']","['tv dramas', 'soundtracks', 'music & audio', 'world music', 'tv soap operas', 'tv shows & programs', 'arts & entertainment']",False,False
 jp-news.mercari.com,"['internet & telecom', 'arts & entertainment']","['forum & chat providers', 'business & industrial', 'shopping', 'retail trade', 'online communities']",False,False
 store.dji.com,['shopping'],"['computers & electronics', 'consumer electronics', 'cameras & camcorders', 'wearable technology']",False,False
-articulo.mercadolibre.com.mx,['shopping'],"['consumer resources', 'coupons & discount offers', 'business & industrial', 'shopping', 'retail trade']",True,False
-www.xklxsw.com,['books & literature'],"['forum & chat providers', 'tv shows & programs', 'books & literature', 'arts & entertainment', 'online communities']",True,False
 www.webstaurantstore.com,"['kitchen & dining', 'food service', 'restaurants']","['food & drink', 'cooking & recipes', 'agriculture & forestry', 'business & industrial', 'home appliances', 'food production', 'cuisines', 'home & garden']",False,False
 www.tayara.tn,['shopping'],"['lots & land', 'real estate', 'jobs & education', 'jobs', 'autos & vehicles', 'job listings']",False,False
-loveread.ec,['books & literature'],"['forum & chat providers', 'reference', 'educational resources', 'books & literature', 'online communities']",True,False
-wbocash.us,[],"['computer & video games', 'sports', 'games', 'card games']",False,True
 www.pronetais12.com,"['phone service providers', 'internet service providers (isps)']","['isps', 'consumer resources', 'coupons & discount offers', 'shopping', 'phone service providers', 'internet & telecom']",False,False
-lms.qu.edu.sa,"['distance learning', 'education', 'colleges & universities']","['education', 'reference', 'colleges & universities', 'distance learning', 'educational resources', 'jobs & education']",True,False
-semena-zakaz.ru,[],"['gardening', 'agriculture & forestry', 'business & industrial', 'food production', 'home & garden', 'home & interior decor']",False,True
 zerknij.tv,"['movie & tv streaming', 'tv & video']","['arts & entertainment', 'movies', 'online video', 'tv shows & programs']",False,False
 www.police.rajasthan.gov.in,"['law & government', 'government & public sector jobs']","['news', 'legal', 'local news', 'law & government', 'crime & justice', 'legal services']",False,False
 sudokukingdom.com,"['games', 'computer & video games', 'arts & entertainment']","['computer & video games', 'education', 'web apps & online tools', 'jobs & education', 'games', 'strategy games', 'internet & telecom']",False,False
 www.super-rc.co.jp,"['toys', 'hobbies & leisure']","['legal', 'reference', 'web apps & online tools', 'educational resources', 'law & government', 'internet & telecom', 'legal services']",False,False
-madison.craigslist.org,['shopping'],"['forum & chat providers', 'business & industrial', 'shopping', 'retail trade', 'online communities']",True,False
-www.unibet.nl,[],"['card games', 'games', 'live sporting events', 'arts & entertainment', 'sports']",False,True
-www.frasess.net,['books & literature'],"['books & literature', 'poetry']",True,False
-www.tapatalk.com,['online communities'],"['forum & chat providers', 'online communities', 'social networks']",True,False
-realincest.pro,['arts & entertainment'],"['arts & entertainment', 'entertainment industry', 'online video']",True,False
-www.fip.it,[],"['sports', 'basketball']",False,True
 www.eurogamer.pl,"['computers & electronics', 'game systems & consoles', 'news']","['casual games', 'computer & video games', 'games']",False,False
 www.lisablower.com,"['hobbies & leisure', 'travel & transportation']","['card games', 'entertainment industry', 'games', 'arts & entertainment', 'hobbies & leisure']",False,False
 axislearning.axisbank.com,"['computer & video games', 'arts & entertainment']","['education', 'business & industrial', 'jobs & education']",False,False
-www.tv9hindi.com,['news'],"['news', 'politics', 'world news']",True,False
 sketch.metademolab.com,"['arts & entertainment', 'computer & video games']","['arts & entertainment', 'visual art & design', 'painting']",False,False
 www.hadviser.com,"['fashion & style', 'hair care']","['beauty & fitness', 'reference', 'clean beauty', 'face & body care', 'how-to, diy & expert content', 'hair care']",False,False
-www.astrotheme.com,[],"['marriage', 'people & society', 'family & relationships']",False,True
-pornogratisbrasil.com,[],"['arts & entertainment', 'entertainment industry', 'online video', 'online image galleries']",False,True
 www.loft.com,"['clothing accessories', ""women's clothing""]","['fashion & style', 'shopping', 'beauty & fitness', ""women's clothing""]",False,False
-www.tv100.com,['news'],"['news', 'politics', 'local news']",True,False
-www.manualslib.com,[],"['reference', 'educational resources']",False,True
-v.filmyhunk.com.co,['movies'],"['arts & entertainment', 'action & adventure films', 'online video', 'movies']",True,False
-ascoli.bakecaincontrii.com,['online communities'],"['online communities', 'people & society', 'dating & personals', 'family & relationships']",True,False
-www.travel.gr,['travel & transportation'],"['honeymoons & romantic getaways', 'travel & transportation', 'travel guides & travelogues', 'tourist destinations']",True,False
-www.embrapa.br,['business & industrial'],"['business operations', 'agriculture & forestry', 'business & industrial']",True,False
 www.cosme.net,"['make-up & cosmetics', 'shopping']","['shopping', 'beauty & fitness', 'bath & body products', 'face & body care']",False,False
-anzn.net,['news'],"['online communities', 'people & society', 'news', 'local news']",True,False
-www.empik.com,['shopping'],"[""men's clothing"", 'shopping', ""women's clothing""]",True,False
 www.lnfs.es,"['sports', 'soccer', 'news']","['sports', 'soccer']",False,False
 supertela.wf,"['tv & video', 'arts & entertainment']","['arts & entertainment', 'action & adventure films', 'online video', 'movies']",False,False
-www.tag24.it,['news'],"['economy news', 'news', 'politics', 'local news']",True,False
 m.ybirds.com,['social networks'],"['real estate', 'timeshares & vacation properties', 'lots & land']",False,False
-t24.com.tr,['news'],"['economy news', 'news', 'politics']",True,False
 www.ledger.com,['lamps & lighting'],"['finance', 'financial planning & management']",False,False
-www.herzstiftung.de,[],"['finance', 'insurance', 'science', 'biological sciences', 'health insurance']",False,True
 icmai.in,"['law & government', 'accounting & auditing', 'business & industrial']","['accounting & auditing', 'finance', 'jobs & education', 'tax preparation & planning']",False,False
 app.datadoghq.com,['business & productivity software'],"['distributed & cloud computing', 'computers & electronics', 'networking', 'software']",False,False
-sportpirate.com,"['sports', 'news']","['sports', 'news', 'auto racing']",True,False
 starpets.gg,"['roleplaying games', 'computer & video games']","['arts & entertainment', 'visual art & design', 'painting']",False,False
 bombitup.net,"['internet & telecom', 'arts & entertainment']","['hobbies & leisure', 'web apps & online tools', 'internet & telecom']",False,False
 pilotruca.com,['local news'],"['shopping', 'antiques & collectibles']",False,False
-www.team-bhp.com,['autos & vehicles'],"['forum & chat providers', 'automotive industry', 'used vehicles', 'business & industrial', 'vehicle shopping', 'online communities', 'autos & vehicles']",True,False
 m.ome.tv,"['social networks', 'voice & video chat', 'online communities']","['people & society', 'web apps & online tools', 'social networks', 'internet & telecom', 'online communities']",False,False
-www.sightseeingpass.com,['travel & transportation'],"['family travel', 'travel & transportation', 'travel guides & travelogues', 'hotels & accommodations']",True,False
-www.sinembargo.mx,['politics'],"['news', 'politics', 'local news']",True,False
-www.vietnamcupid.com,['online communities'],"['people & society', 'marriage', 'social networks', 'family & relationships', 'online communities', 'dating & personals']",True,False
-mx.usembassy.gov,['law & government'],"['legal', 'law & government', 'news', 'politics']",True,False
-www.banki.ru,['finance'],"['finance', 'investing', 'financial planning & management']",True,False
 www.fido.ca,['phone service providers'],"['internet & telecom', 'web apps & online tools', 'business & industrial']",False,False
 mijnzakelijk.ing.nl,['arts & entertainment'],"['credit cards', 'finance', 'home financing']",False,False
-www.deltadental.com,['health insurance'],"['health insurance', 'insurance', 'finance', 'life insurance']",True,False
-m.tupaki.com,['news'],"['news', 'politics', 'local news']",True,False
-www.carsdirect.com,['vehicle shopping'],"['automotive industry', 'used vehicles', 'business & industrial', 'vehicle shopping', 'autos & vehicles']",True,False
-videogamemods.com,['computer & video games'],"['casual games', 'computer & video games', 'action & platform games', 'games']",True,False
 www.emploi-collectivites.fr,['job listings'],"['jobs', 'career resources & planning', 'jobs & education']",False,False
 hi.sexmithausfrauen.net,['people & society'],"['arts & entertainment', 'entertainment industry', 'online video']",False,False
-www.sec.gov,"['law & government', 'investing']","['finance', 'news', 'investing', 'currencies & foreign exchange', 'legal', 'law & government', 'economy news']",True,False
 www.bim.com.tr,"['food & drink', 'food service', 'mass merchants & department stores']","['home appliances', 'shopping', 'home & garden']",False,False
 astrogame.org,"['computer & video games', 'arts & entertainment']","['casual games', 'computer & video games', 'simulation games', 'games']",False,False
-synoniemen.net,['education'],"['education', 'internet & telecom', 'web apps & online tools', 'jobs & education']",True,False
 www2.city.kyoto.lg.jp,['sports'],"['news', 'family travel', 'travel & transportation', 'tourist destinations', 'local news']",False,False
-www.puppyspot.com,['pets'],"['pets', 'pet food & pet care supplies', 'pets & animals', 'dogs']",True,False
 xat.com,"['social networks', 'internet & telecom', 'arts & entertainment', 'computer & video games']","['forum & chat providers', 'online communities']",False,False
 www.tangrenjie.tv,['movie & tv streaming'],"['arts & entertainment', 'movies', 'online video']",False,False
 www.tempstaff.co.jp,"['recruitment & staffing', 'job listings']","['jobs', 'jobs & education', 'job listings']",False,False
 filmmakinesi1.com,"['movie & tv streaming', 'movies']","['arts & entertainment', 'movies', 'action & adventure films', 'online video']",False,False
-kachimai.jp,"['news', 'local news']","['economy news', 'news', 'local news']",True,False
-sentence.yourdictionary.com,[],"['internet & telecom', 'web apps & online tools', 'jobs & education']",False,True
 www.dday.it,"['computers & electronics', 'news']","['computers & electronics', 'consumer electronics', 'computer peripherals', 'wearable technology']",False,False
-www.archanaskitchen.com,['cooking & recipes'],"['food & drink', 'cooking & recipes', 'vegetarian cuisine', 'cuisines', 'healthy eating']",True,False
-bilweb.se,"['autos & vehicles', 'vehicle shopping']","['automotive industry', 'used vehicles', 'business & industrial', 'vehicle shopping', 'autos & vehicles']",True,False
 home.gamer.com.tw,['computer & video games'],"['arts & entertainment', 'visual art & design', 'comics', 'painting']",False,False
-partner.steampowered.com,['online communities'],"['online communities', 'computer & video games', 'action & platform games', 'games']",True,False
-www.lowadi.com,['computer & video games'],"['computer & video games', 'simulation games', 'equestrian', 'games', 'sports']",True,False
 www.avendrealouer.fr,"['real estate listings', 'shopping']","['real estate', 'home & garden', 'lots & land']",False,False
 safer.fmcsa.dot.gov,"['autos & vehicles', 'law & government', 'business & industrial']","['legal', 'automotive industry', 'law & government', 'business & industrial']",False,False
 bongda.wap.vn,"['sports', 'soccer', 'news']","['reference', 'sports', 'soccer']",False,False
@@ -311,21 +174,14 @@ fareharbor.com,"['travel & transportation', 'business & productivity software']"
 www.visitportugal.com,"['travel & transportation', 'beaches & islands']","['family travel', 'travel & transportation', 'hotels & accommodations']",False,False
 ro.scribd.com,"['audiobooks', 'books & literature']","['books & literature', 'poetry', ""children's literature""]",False,False
 www.zalando.sk,"['apparel', 'fashion & style', 'shopping']","[""men's clothing"", 'shopping', ""women's clothing""]",False,False
-www.it.lastminute.com,['air travel'],"['air travel', 'travel & transportation', 'business travel']",True,False
-nextcareernow.com,['job listings'],"['jobs', 'career resources & planning', 'jobs & education', 'job listings']",True,False
 xxxxx520.cam,"['online communities', 'web services']","['computer & video games', 'simulation games', 'games', 'adventure games']",False,False
-shop.nissa.ro,['shopping'],"['shopping', ""women's clothing""]",True,False
 chromeunboxed.com,['software'],"['computers & electronics', 'online communities', 'laptops & notebooks', 'desktop computers']",False,False
 www.watch.impress.co.jp,"['business news', 'computers & electronics', 'news']","['weather', 'news', 'local news']",False,False
 us.i.mi.com,"['phone service providers', 'cloud storage']","['computers & electronics', 'networking', 'distributed & cloud computing']",False,False
-jogjagamers.org,['computer & video games'],"['casual games', 'computer & video games', 'games', 'sports games']",True,False
 www.mojedatovaschranka.cz,"['law & government', 'internet & telecom', 'arts & entertainment']","['legal', 'web apps & online tools', 'law & government', 'internet & telecom', 'legal services']",False,False
-www.cvs.com,[],"['make-up & cosmetics', 'beauty & fitness', 'shopping', 'face & body care', 'bath & body products']",False,True
 www.car-part.com,['vehicle parts & accessories'],"['automotive industry', 'business & industrial', 'shopping', 'vehicle shopping', 'autos & vehicles']",False,False
 www.888casino.it,"['computer & video games', 'arts & entertainment']","['arts & entertainment', 'entertainment industry', 'games', 'card games']",False,False
 www.antel.com.uy,['internet service providers (isps)'],"['shopping', 'consumer electronics', 'computers & electronics', 'wearable technology']",False,False
-couponfollow.com,['coupons & discount offers'],"['consumer resources', 'shopping', 'coupons & discount offers']",True,False
-www.kymensanomat.fi,"['local news', 'news']","['news', 'politics', 'local news']",True,False
 vipmanhouse.com,['travel & transportation'],"['shopping', 'home & garden', 'home & interior decor']",False,False
 www.pleinchamp.com,"['business news', 'business & industrial']","['news', 'weather', 'agriculture & forestry', 'business & industrial', 'food production']",False,False
 imkosmetik.com,['arts & entertainment'],"['make-up & cosmetics', 'beauty & fitness', 'bath & body products', 'face & body care']",False,False
@@ -336,20 +192,15 @@ rakbank.ae,"['banking', 'credit & lending']","['accounting & auditing', 'finance
 www.fringecapybara.com,"['books & literature', 'comics & animation']","['online communities', 'forum & chat providers', 'books & literature']",False,False
 www.kalendarzswiat.pl,['holidays & seasonal events'],"['internet & telecom', 'web apps & online tools', 'reference']",False,False
 motocykle.bazos.sk,"['shopping', 'motorcycles']","['used vehicles', 'business & industrial', 'automotive industry', 'vehicle shopping', 'autos & vehicles']",False,False
-fotosbor.com,[],"['arts & entertainment', 'online video']",False,True
 www.eventseye.com,"['events & listings', 'expos & conventions']","['reference', 'web apps & online tools', 'internet & telecom']",False,False
 www.rado.com,['travel agencies & services'],"['shopping', 'antiques & collectibles']",False,False
 dgt.gov.in,"['law & government', 'education']","['forum & chat providers', 'education', 'colleges & universities', 'jobs & education', 'online communities']",False,False
 booking-dp.lastminute.de,['travel agencies & services'],"['travel & transportation', 'air travel', 'low cost & last minute travel']",False,False
 www.nikon.co.in,['camera & photo equipment'],"['arts & entertainment', 'shopping', 'visual art & design', 'photographic & digital arts']",False,False
 www.doviz.com,['business news'],"['business & industrial', 'economy news', 'news', 'mergers & acquisitions']",False,False
-www.nzpersonals.com,['online communities'],"['people & society', 'social networks', 'family & relationships', 'online communities', 'dating & personals']",True,False
 www.vtwonen.nl,['home & interior decor'],"['shopping', 'home & garden', 'home improvement']",False,False
 baskino.me,['movie & tv streaming'],"['arts & entertainment', 'movies', 'action & adventure films', 'online video']",False,False
 thevillageoutlet.com,['apparel'],"[""men's clothing"", 'shopping', ""women's clothing"", ""children's clothing""]",False,False
-m.locanto.ci,['shopping'],"['jobs', 'shopping', 'jobs & education', 'job listings']",True,False
-dmsu.gov.ua,[],"['legal', 'legal services', 'law & government']",False,True
-pje1g.trf6.jus.br,['law & government'],"['legal', 'law & government', 'crime & justice']",True,False
 android.com.pl,"['computers & electronics', 'news']","['computers & electronics', 'computer & video games', 'consumer electronics', 'games']",False,False
 tv-programme.com,['tv & video'],"['arts & entertainment', 'tv dramas', 'tv shows & programs', 'tv soap operas']",False,False
 cloud.mail.ru,"['web services', 'cloud storage', 'online communities']","['distributed & cloud computing', 'networking', 'web apps & online tools', 'computers & electronics', 'internet & telecom']",False,False
@@ -369,32 +220,22 @@ www.cambridgelms.org,"['distance learning', 'colleges & universities']","['educa
 www.tnt.it,"['tv & video', 'business & industrial']","['travel & transportation', 'business & industrial', 'retail trade', 'cargo trucks & trailers', 'autos & vehicles']",False,False
 www.arbitersports.com,"['business & productivity software', 'sports']","['sports', 'finance', 'american football', 'financial planning & management']",False,False
 www.myhomebook.de,['home improvement'],"['home & garden', 'landscape design', 'gardening']",False,False
-www.e-nls.com,[],"['arts & entertainment', 'shopping', 'entertainment industry']",False,True
 nzfarmsource.co.nz,"['hobbies & leisure', 'people & society']","['food production', 'agriculture & forestry', 'business & industrial']",False,False
 fashionspark.com,"['casual apparel', 'outerwear', 'fashion & style', ""women's clothing""]","[""men's clothing"", 'shopping', ""women's clothing""]",False,False
 email.inbox.lv,"['internet & telecom', 'arts & entertainment']","['economy news', 'news', 'local news']",False,False
 www.aa2000.com.ar,"['air travel', 'travel agencies & services']","['travel & transportation', 'air travel', 'travel guides & travelogues']",False,False
 parisfashionshops.com,['fashion & style'],"[""men's clothing"", 'shopping', ""women's clothing""]",False,False
 www.autopower.bg,"['vehicle parts & accessories', 'autos & vehicles', 'motor vehicles']","['automotive industry', 'used vehicles', 'business & industrial', 'vehicle shopping', 'autos & vehicles']",False,False
-sakai.duke.edu,['colleges & universities'],"['education', 'colleges & universities', 'jobs & education']",True,False
 m.naaptol.com,"['arts & entertainment', 'music & audio']","[""men's clothing"", 'shopping', ""children's clothing""]",False,False
 pitaronfree.blogspot.com,['games'],"['reference', 'web apps & online tools', 'internet & telecom']",False,False
-www.usps.com,['business & industrial'],"['travel & transportation', 'business & industrial', 'retail trade', 'cargo trucks & trailers', 'autos & vehicles']",True,False
 forum.matrp.ru,"['online communities', 'computer & video games']","['massively multiplayer games', 'computer & video games', 'simulation games', 'games']",False,False
 livesta.com.ua,"['news', 'arts & entertainment']","['make-up & cosmetics', 'beauty & fitness', 'shopping', 'face & body care', 'perfumes & fragrances']",False,False
-www.trollandtoad.com,['games'],"['roleplaying games', 'games', 'card games']",True,False
-www.sexolandia.org,[],"['arts & entertainment', 'entertainment industry', 'online video']",False,True
-www.firmenabc.at,[],"['jobs', 'career resources & planning', 'reference', 'jobs & education']",False,True
 aprendizaje.mec.edu.py,"['law & government', 'primary & secondary schooling (k-12)', 'education']","['preschool', 'education', 'reference', 'jobs & education', 'educational resources', 'early childhood education']",False,False
-www.kikocosmetics.com,['make-up & cosmetics'],"['make-up & cosmetics', 'beauty & fitness', 'nail care products', 'face & body care', 'perfumes & fragrances']",True,False
-www.arzon.jp,[],"['arts & entertainment', 'movies', 'online video']",False,True
-richmond.craigslist.org,['shopping'],"['shopping', 'online communities', 'forum & chat providers']",True,False
 aula.lamolina.edu.pe,['colleges & universities'],"['food production', 'agriculture & forestry', 'business & industrial']",False,False
 www.favorgk.com,['education'],"['visual art & design', 'comics', 'computers & electronics', 'software', 'arts & entertainment', 'graphics & animation software']",False,False
 www.ntvshop.jp,"['tv & video', 'arts & entertainment']","['shopping', 'home & garden', 'household supplies']",False,False
 www.pinterest.ca,"['social networks', 'online communities']","['arts & entertainment', 'visual art & design', 'online communities']",False,False
 pointpickup.com,"['business & industrial', 'grocery delivery services']","['travel & transportation', 'retail trade', 'business & industrial']",False,False
-porn-hindi.com,[],"['arts & entertainment', 'entertainment industry', 'online video']",False,True
 www.ampparit.com,['news'],"['forum & chat providers', 'online communities']",False,False
 tienda.clarochile.cl,"['phone service providers', 'mobile phones']","['consumer electronics', 'smart phones', 'shopping', 'computers & electronics', 'internet & telecom']",False,False
 travel.yahoo.co.jp,"['travel agencies & services', 'hotels & accommodations']","['real estate', 'timeshares & vacation properties', 'lots & land']",False,False
@@ -407,203 +248,122 @@ www.playstationtrophies.org,"['game systems & consoles', 'computer & video games
 hentaimode.com,['comics & animation'],"['animated films', 'visual art & design', 'comics', 'movies', 'arts & entertainment']",False,False
 www.calendario-365.com.br,['holidays & seasonal events'],"['reference', 'web apps & online tools', 'internet & telecom']",False,False
 smarthand.pro,"['people & society', 'law & government']","['arts & entertainment', 'entertainment industry', 'games', 'card games']",False,False
-www.drogaraia.com.br,['face & body care'],"['shopping', 'antiperspirants, deodorants & body sprays', 'beauty & fitness', 'face & body care']",True,False
 situsfurla77.com,"['people & society', 'arts & entertainment']","['arts & entertainment', 'entertainment industry', 'games', 'card games']",False,False
-takarakuji-loto.jp,[],"['arts & entertainment', 'entertainment industry', 'games', 'card games']",False,True
 mpforest.org,['law & government'],"['jobs', 'jobs & education', 'job listings']",False,False
 qedu.org.br,['colleges & universities'],"['education', 'reference', 'educational resources', 'jobs & education', 'early childhood education']",False,False
-blox.trade,['computer & video games'],"['computer & video games', 'games']",True,False
-brightspace.avans.nl,['colleges & universities'],"['web design & development', 'education', 'colleges & universities', 'distance learning', 'jobs & education', 'internet & telecom']",True,False
-www.sexvid.pro,[],"['forum & chat providers', 'online communities', 'dating & personals']",False,True
 www.outdoorlife.com,"['outdoors', 'hiking & camping']","['travel & transportation', 'adventure travel', 'outdoors', 'hunting & shooting', 'hobbies & leisure']",False,False
 visuales.uclv.cu,"['business & productivity software', 'cloud storage']","['science', 'jobs & education', 'biological sciences', 'genetics', 'augmented & virtual reality']",False,False
 www.apartmentguide.com,['residential rentals'],"['home & interior decor', 'home improvement', 'real estate', 'home & garden']",False,False
-manytoon.com,[],"['arts & entertainment', 'comics', 'online video', 'acting & theater']",False,True
 ceptam10.com,['business & industrial'],"['education', 'science', 'jobs & education', 'jobs', 'academic conferences & publications']",False,False
-www.jobstreet.vn,['job listings'],"['jobs', 'jobs & education', 'job listings']",True,False
-pinayvlog.com,[],"['arts & entertainment', 'entertainment industry', 'online video', 'acting & theater']",False,True
-www.farmrio.com.br,['fashion & style'],"['beauty & fitness', ""children's clothing"", ""women's clothing"", 'shopping', 'fashion & style']",True,False
 onlineupdatestm.in,"['standardized & admissions tests', 'government & public sector jobs']","['education', 'colleges & universities', 'jobs & education']",False,False
 www.raiffeisen.ru,['banking'],"['credit cards', 'personal loans', 'finance']",False,False
 veiculos.fipe.org.br,"['product reviews & price comparisons', 'vehicle shopping']","['legal', 'legal services', 'law & government']",False,False
-www.astrosage.com,[],"['arts & entertainment', 'news', 'magic']",False,True
 cookidoo.de,"['small kitchen appliances', 'cooking & recipes']","['cooking & recipes', 'cuisines', 'food & drink']",False,False
 www.classmarker.com,"['business & productivity software', 'education']","['education', 'academic conferences & publications', 'jobs & education']",False,False
 www.bancodeoccidente.hn,"['banking', 'credit & lending']","['credit cards', 'personal loans', 'finance']",False,False
 bdsmlr.com,"['internet & telecom', 'online communities']","['entertainment industry', 'acting & theater', 'social networks', 'arts & entertainment', 'online communities']",False,False
-englishgrammarhere.com,[],"['education', 'distance learning', 'jobs & education']",False,True
-www.pmu.fr,[],"['computer & video games', 'games', 'sports games']",False,True
 www.creditkarma.com,"['credit reporting & monitoring', 'credit cards', 'credit & lending']","['credit cards', 'personal loans', 'finance']",False,False
 www.rossmann.com.tr,"['hair care', 'face & body care']","['shopping', 'beauty & fitness', ""children's clothing"", 'face & body care']",False,False
 hoc360.net,"['primary & secondary schooling (k-12)', 'education']","['education', 'preschool', 'jobs & education', 'early childhood education']",False,False
 new.leopardscod.com,['computers & electronics'],"['arts & entertainment', 'travel & transportation', 'movies', 'comedy films']",False,False
-e-learning.karu.ac.ke,['colleges & universities'],"['education', 'science', 'colleges & universities', 'distance learning', 'jobs & education']",True,False
 player03.com,"['online communities', 'computer & video games']","['computers & electronics', 'computer peripherals', 'programming', 'software']",False,False
 www.intacct.com,"['business & productivity software', 'enterprise technology']","['finance', 'commercial lending', 'financial planning & management', 'business & industrial', 'business operations']",False,False
 vod4me.online,"['arts & entertainment', 'tv & video']","['entertainment industry', 'social networks', 'arts & entertainment', 'online communities', 'online video']",False,False
-es.search.yahoo.com,['internet & telecom'],"['online communities', 'internet & telecom', 'search engines', 'smart phones']",True,False
 www.oma.by,"['building materials & supplies', 'construction & power tools']","['visual art & design', 'outdoors', 'shopping', 'arts & entertainment', 'hobbies & leisure']",False,False
-m.anninhthudo.vn,['news'],"['news', 'local news', 'law & government', 'crime & justice', 'world news']",True,False
-app.starbucks.com,['food & drink'],"['cooking & recipes', 'shopping', 'food & drink']",True,False
 www.yupcard.com,"['product reviews & price comparisons', 'computers & electronics', 'news']","['credit cards', 'shopping', 'accounting & auditing', 'finance']",False,False
 thelifeofmaharlika.com,['arts & entertainment'],"['jobs & education', 'education', 'people & society', 'science fiction & fantasy']",False,False
 getrich.app,"['social networks', 'online communities']","['personal loans', 'insurance', 'finance', 'investing']",False,False
 www.filmeshdtorrent.com,"['movies', 'tv & video', 'arts & entertainment']","['arts & entertainment', 'drama films', 'online video', 'movies']",False,False
-www.lanacion.com.ar,['news'],"['news', 'politics', 'world news']",True,False
 www.scotiaonline.scotiabank.com,"['credit & lending', 'banking']","['insurance', 'finance', 'business & industrial']",False,False
 telegratis.online,"['tv & video', 'movie & tv streaming']","['entertainment industry', 'social networks', 'arts & entertainment', 'online communities', 'online video']",False,False
-xxb.mobi,[],"['acting & theater', 'social networks', 'arts & entertainment', 'online communities', 'online video']",False,True
-thulasi.psc.kerala.gov.in,['law & government'],"['education', 'law & government', 'vocational & continuing education', 'jobs & education']",True,False
 webmail.uni-koeln.de,"['colleges & universities', 'service providers']","['education', 'internet & telecom', 'jobs & education', 'email']",False,False
-www.sudbury.com,['local news'],"['news', 'science', 'outdoors', 'local news', 'hobbies & leisure']",True,False
 www.office.co.uk,['footwear'],"['beauty & fitness', 'commercial lending', 'business & industrial', 'shopping', 'fashion & style']",False,False
-www.date-converter.com,[],"['hobbies & leisure', 'reference', 'people & society']",False,True
 visionbenefits.envolvehealth.com,"['fitness', 'health insurance']","['beauty & fitness', 'finance', 'insurance', 'health insurance', 'face & body care']",False,False
 old.winline.ru,['software'],"['insurance', 'sports', 'finance']",False,False
 www.crocs.de,['footwear'],"['fashion & style', 'shopping', 'beauty & fitness']",False,False
 osym.gov.tr,['colleges & universities'],"['education', 'standardized & admissions tests', 'law & government', 'jobs & education']",False,False
 thetrek.co,"['outdoors', 'hiking & camping']","['travel & transportation', 'hobbies & leisure', 'adventure travel', 'outdoors']",False,False
 www.hurriyet.com.tr,"['internet & telecom', 'news', 'arts & entertainment']","['world news', 'news', 'local news']",False,False
-fulu.jp,[],"['arts & entertainment', 'entertainment industry', 'online video', 'tv shows & programs']",False,True
 apps.driveu.in,"['autos & vehicles', 'law & government', 'arts & entertainment']","['travel & transportation', 'internet & telecom', 'online communities', 'web apps & online tools']",False,False
-www.its.porn,[],"['dating & personals', 'acting & theater', 'arts & entertainment', 'online communities', 'online video']",False,True
 teoritentamen.no,"['autos & vehicles', 'law & government']","['education', 'academic conferences & publications', 'jobs & education']",False,False
-www.fullporn.net,[],"['acting & theater', 'social networks', 'arts & entertainment', 'online communities', 'online video']",False,True
 cloud.aeolservice.es,"['autos & vehicles', 'law & government', 'education']","['computers & electronics', 'internet & telecom', 'web hosting', 'networking']",False,False
 jobvision.ir,"['computers & electronics', 'web design & development']","['education', 'jobs', 'business & industrial', 'jobs & education']",False,False
 eduline.ac-lille.fr,"['internet & telecom', 'software', 'colleges & universities']","['education', 'distance learning', 'jobs & education']",False,False
 www.vlaanderen.be,"['law & government', 'education']","['legal', 'legal services', 'law & government']",False,False
 erotorrent.ru,['social networks'],"['arts & entertainment', 'comics', 'online video', 'acting & theater']",False,False
 www.legimi.pl,"['books & literature', 'audiobooks']","['education', 'books & literature', 'poetry', 'jobs & education']",False,False
-mychart.gundersenhealth.org,[],"['beauty & fitness', 'finance', 'food & drink', 'insurance', 'cooking & recipes', 'health insurance', 'healthy eating']",False,True
 wielermanager.sporza.be,"['cycling', 'sports']","['fantasy sports', 'sports', 'social networks', 'online communities']",False,False
 osmanonlinebangla.com,['online communities'],"['arts & entertainment', 'entertainment industry', 'online video', 'tv shows & programs']",False,False
-www.trenord.it,['long distance bus & rail'],"['travel & transportation', 'regional parks & gardens', 'tourist destinations', 'long distance bus & rail']",True,False
 freelocalsmature.com,['education'],"['entertainment industry', 'social networks', 'arts & entertainment', 'online communities', 'dating & personals']",False,False
 www.xn--l3cm7a5azd.tv,"['movie & tv streaming', 'tv dramas']","['entertainment industry', 'social networks', 'arts & entertainment', 'online communities', 'online video']",False,False
-downmagaz.net,['arts & entertainment'],"['education', 'books & literature', 'jobs & education', 'arts & entertainment']",True,False
-gist.github.com,['computers & electronics'],"['forum & chat providers', 'programming', 'computers & electronics', 'internet & telecom', 'online communities']",True,False
-www.modelle-hamburg.de,[],"['fashion & style', 'shopping', 'beauty & fitness']",False,True
 www.nichireifoods.co.jp,['business & industrial'],"['cooking & recipes', 'cuisines', 'food & drink']",False,False
 gente.ig.com.br,"['news', 'arts & entertainment']","['forum & chat providers', 'online communities', 'people & society', 'social networks']",False,False
 www.logitravel.fr,"['travel & transportation', 'travel agencies & services']","['travel & transportation', 'tourist destinations', 'adventure travel']",False,False
 www.onvista.de,"['business news', 'investing']","['finance', 'investing', 'business & industrial']",False,False
-el.wiktionary.org,[],"['education', 'reference', 'books & literature', 'jobs & education']",False,True
 greenwaystart.com,"['business & industrial', 'shopping', 'people & society']","['shopping', 'finance', 'business & industrial']",False,False
-mix.tj,['arts & entertainment'],"['music & audio', 'entertainment industry', 'social networks', 'arts & entertainment', 'online communities']",True,False
-www.uzdevumi.lv,['education'],"['education', 'reference', 'jobs & education']",True,False
-www.distancesfrom.com,[],"['travel & transportation', 'online communities', 'travel guides & travelogues']",False,True
-bbs.imoutolove.me,['online communities'],"['forum & chat providers', 'entertainment industry', 'social networks', 'arts & entertainment', 'online communities']",True,False
 www.1337xx.to,"['web services', 'online communities', 'software', 'arts & entertainment']","['arts & entertainment', 'entertainment industry', 'movies', 'online video']",False,False
-novelmao.com,['books & literature'],"['education', 'jobs & education', 'books & literature', 'social networks', 'online communities']",True,False
 www.dzexams.com,"['primary & secondary schooling (k-12)', 'education']","['education', 'standardized & admissions tests', 'jobs & education']",False,False
-ci-en.net,[],"['roleplaying games', 'online communities', 'social networks', 'games']",False,True
 booru.allthefallen.moe,['comics & animation'],"['arts & entertainment', 'forum & chat providers', 'online communities', 'social networks']",False,False
 maximum.md,['education'],"['home appliances', 'shopping', 'computers & electronics', 'home & garden']",False,False
-www.golfweather.info,"['golf', 'news']","['weather', 'sports', 'news', 'golf']",True,False
 crprt.livejasmin.com,['local news'],"['forum & chat providers', 'dating & personals', 'arts & entertainment', 'online communities', 'online video']",False,False
-www.secretloversnearby.com,[],"['forum & chat providers', 'online communities', 'social networks', 'dating & personals']",False,True
 www.yannick.com.tw,['music & audio'],"['cooking & recipes', 'shopping', 'food & drink']",False,False
-www.langkahindopools.org,[],"['online communities', 'sports', 'finance']",False,True
-www.ngengesport.cd,[],"['sports', 'soccer', 'finance']",False,True
 doctruyen3q.site,"['books & literature', 'comics & animation']","['arts & entertainment', 'entertainment industry', 'books & literature', 'comics']",False,False
-fotoscapes.com,['arts & entertainment'],"['photographic & digital arts', 'visual art & design', 'photo software', 'computers & electronics', 'software', 'arts & entertainment', 'hobbies & leisure']",True,False
 app.fatturaelettronica.pa.it,"['accounting & auditing', 'tax preparation & planning']","['accounting & auditing', 'finance', 'business & industrial']",False,False
 www.gmx.com,"['internet & telecom', 'arts & entertainment']","['computers & electronics', 'internet & telecom', 'email']",False,False
-www.royalcaribbeanblog.com,['cruises & charters'],"['cooking & recipes', 'travel & transportation', 'food & drink', 'cruises & charters']",True,False
 yakutiamedia.ru,['people & society'],"['sports', 'news', 'world news']",False,False
 www.zonebourse.com,['business news'],"['finance', 'investing', 'business & industrial']",False,False
 news.rediff.com,"['internet & telecom', 'arts & entertainment']","['news', 'local news', 'world news']",False,False
 theatretabard.click,"['performing arts', 'music & audio']","['arts & entertainment', 'hobbies & leisure', 'acting & theater']",False,False
 www.benefits.ml.com,['arts & entertainment'],"['insurance', 'finance', 'financial planning & management']",False,False
-forum.softpedia.com,"['online communities', 'computers & electronics']","['computers & electronics', 'internet & telecom', 'online communities', 'forum & chat providers']",True,False
 www.bose.com,['audio equipment'],"['arts & entertainment', 'shopping', 'computers & electronics', 'music & audio']",False,False
-www.modapkbaixar.com,['software'],"['web apps & online tools', 'computers & electronics', 'software', 'internet & telecom', 'online communities']",True,False
 www.tau-trade.com,"['autos & vehicles', 'vehicle shopping', 'used vehicles']","['financial planning & management', 'finance', 'business & industrial']",False,False
 superfutebol.tv,"['live video streaming', 'soccer', 'tv & video']","['arts & entertainment', 'entertainment industry', 'sports', 'soccer']",False,False
 dukascopygroup.com,"['business & industrial', 'banking']","['finance', 'investing', 'business & industrial']",False,False
-academica.mx,"['education', 'colleges & universities']","['education', 'colleges & universities', 'jobs & education']",True,False
 apply1.tndge.org,['colleges & universities'],"['education', 'standardized & admissions tests', 'jobs & education']",False,False
 www.gofun-arena.com,"['arts & entertainment', 'music & audio']","['entertainment industry', 'social networks', 'games', 'arts & entertainment', 'online communities']",False,False
 www2.acesso.io,['arts & entertainment'],"['computers & electronics', 'internet & telecom', 'online communities']",False,False
 www.synthesia.io,"['arts & entertainment', 'computer & video games']","['arts & entertainment', 'computers & electronics', 'software']",False,False
-www.omroepflevoland.nl,"['local news', 'news']","['arts & entertainment', 'news', 'local news']",True,False
-academico.uce.edu.ec,['colleges & universities'],"['education', 'colleges & universities', 'jobs & education']",True,False
-www.072info.com,['arts & entertainment'],"['arts & entertainment', 'news', 'local news']",True,False
-aftabnews.ir,['news'],"['arts & entertainment', 'news', 'local news']",True,False
-www.swinburne.edu.au,['colleges & universities'],"['education', 'colleges & universities', 'jobs & education']",True,False
-www.cancerresearchuk.org,[],"['beauty & fitness', 'people & society', 'finance', 'insurance', 'health insurance']",False,True
 www.ecanlitvizle.video,"['tv & video', 'arts & entertainment']","['arts & entertainment', 'entertainment industry', 'online video', 'tv shows & programs']",False,False
 ffxiclopedia.fandom.com,"['computer & video games', 'roleplaying games']","['entertainment industry', 'social networks', 'games', 'arts & entertainment', 'online communities']",False,False
-www.djjohal.com,"['music & audio', 'arts & entertainment']","['arts & entertainment', 'entertainment industry', 'music & audio']",True,False
-kafe777.com,[],"['arts & entertainment', 'entertainment industry', 'online communities', 'people & society']",False,True
 rothys.com,"['law & government', 'business news', 'business & industrial']","['fashion & style', 'shopping', 'beauty & fitness']",False,False
 raptastisch.net,"['rap & hip-hop', 'news']","['arts & entertainment', 'entertainment industry', 'online communities', 'social networks']",False,False
-www.yurticikargo.com,['business & industrial'],"['shopping', 'finance', 'business & industrial']",True,False
-www.animaleamico.com,"['pets & animals', 'pets']","['shopping', 'pets', 'pets & animals']",True,False
 www.e-map.ne.jp,['internet & telecom'],"['travel & transportation', 'hobbies & leisure', 'travel guides & travelogues']",False,False
-login.frontlineeducation.com,['education'],"['jobs & education', 'education', 'business & industrial']",True,False
 www.cashconverters.co.za,"['mass merchants & department stores', 'shopping']","['shopping', 'finance', 'business & industrial']",False,False
 www.ergo.de,['fitness'],"['insurance', 'finance', 'business & industrial']",False,False
 www.archdaily.cl,['architecture'],"['visual art & design', 'business & industrial', 'construction & maintenance', 'arts & entertainment', 'civil engineering']",False,False
 www.laststicker.com,"['shopping', 'games']","['shopping', 'hobbies & leisure', 'antiques & collectibles']",False,False
 www.g2a.com,"['shopping', 'computer & video games']","['shopping', 'online communities', 'games']",False,False
 quicksell.co,"['handbags & purses', 'footwear']","['shopping', 'online communities', 'business & industrial']",False,False
-www.niusdiario.es,['news'],"['world news', 'news', 'local news']",True,False
 my.mollie.com,['electronics & electrical'],"['shopping', 'finance', 'business & industrial']",False,False
-www.hentaicomics.pro,[],"['arts & entertainment', 'entertainment industry', 'comics', 'online video']",False,True
-msn1.bet,[],"['sports', 'finance', 'investing']",False,True
-br.mundosexanuncio.com,[],"['arts & entertainment', 'entertainment industry', 'online communities', 'online video']",False,True
-www.verywellhealth.com,['news'],"['beauty & fitness', 'news', 'food & drink', 'cooking & recipes', 'healthy eating']",True,False
 recruit.ntc.net.np,"['education', 'standardized & admissions tests']","['jobs', 'jobs & education', 'job listings']",False,False
-www.publimetro.com.mx,['news'],"['people & society', 'news', 'local news']",True,False
 mbasic.facebook.com,"['social networks', 'online communities', 'arts & entertainment']","['internet & telecom', 'online communities', 'social networks']",False,False
 www.similarweb.com,['web services'],"['computers & electronics', 'internet & telecom', 'software']",False,False
 www.pyramydair.com,"['home & interior decor', 'travel & transportation']","['shopping', 'hobbies & leisure', 'sports', 'martial arts']",False,False
 www.banxico.org.mx,"['banking', 'investing']","['business operations', 'finance', 'business & industrial']",False,False
-order.ebay.de,['shopping'],"['shopping', 'online communities', 'business & industrial']",True,False
-wwwxvideo.org,[],"['entertainment industry', 'social networks', 'arts & entertainment', 'online communities', 'online video']",False,True
 rus.bongacams23.com,['movie & tv streaming'],"['entertainment industry', 'social networks', 'arts & entertainment', 'online communities', 'online video']",False,False
 twokinds.keenspot.com,"['comics & animation', 'cooking & recipes']","['arts & entertainment', 'online communities', 'comics']",False,False
 www.bbva.com.co,['banking'],"['personal loans', 'finance', 'business & industrial']",False,False
-willyoupressthebutton.com,['arts & entertainment'],"['arts & entertainment', 'entertainment industry', 'online communities', 'games']",True,False
 megapornpics.com,"['shopping', 'apparel']","['photographic & digital arts', 'visual art & design', 'entertainment industry', 'arts & entertainment', 'online communities']",False,False
 www.fiba.basketball,"['sports', 'basketball', 'news']","['arts & entertainment', 'entertainment industry', 'sports', 'basketball']",False,False
 mtlsd.schoology.com,"['education', 'primary & secondary schooling (k-12)']","['education', 'online communities', 'jobs & education']",False,False
-qualp.com.br,[],"['travel & transportation', 'travel guides & travelogues', 'tourist destinations']",False,True
-security.follettsoftware.com,['computers & electronics'],"['network security', 'computers & electronics', 'software']",True,False
 preziktv.com,"['tv & video', 'arts & entertainment']","['arts & entertainment', 'entertainment industry', 'online video', 'tv shows & programs']",False,False
-apkkajal.com,['internet & telecom'],"['computers & electronics', 'internet & telecom', 'web apps & online tools', 'software']",True,False
-binnacle.agrodavao.com,['business & industrial'],"['business operations', 'agriculture & forestry', 'business & industrial']",True,False
 countrynow.com,['country music'],"['arts & entertainment', 'entertainment industry', 'music & audio']",False,False
 usito.usherbrooke.ca,['colleges & universities'],"['education', 'academic conferences & publications', 'jobs & education']",False,False
 www.showmax.com,['movie & tv streaming'],"['arts & entertainment', 'entertainment industry', 'online video']",False,False
-www.xxxsexpic.me,[],"['photographic & digital arts', 'visual art & design', 'entertainment industry', 'arts & entertainment', 'online communities']",False,True
 login.baselinker.com,"['internet & telecom', 'shopping']","['computers & electronics', 'retail trade', 'software', 'business & industrial']",False,False
 play.nova.bg,"['movie & tv streaming', 'music & audio', 'tv & video']","['arts & entertainment', 'entertainment industry', 'online communities', 'games']",False,False
 m.scan-manga.com,"['books & literature', 'comics & animation']","['arts & entertainment', 'entertainment industry', 'books & literature', 'comics']",False,False
-my.thedacare.org,['people & society'],"['beauty & fitness', 'people & society', 'food & drink', 'cooking & recipes', 'healthy eating']",True,False
 gujarathighcourt.nic.in,"['law & government', 'colleges & universities']","['legal', 'legal services', 'law & government']",False,False
 bestdailydates.life,['people & society'],"['social networks', 'online communities', 'dating & personals']",False,False
 www.solucioncodycross.com,"['games', 'computer & video games']","['arts & entertainment', 'entertainment industry', 'games', 'card games']",False,False
-socinquenta.com.br,[],"['arts & entertainment', 'entertainment industry', 'online video', 'acting & theater']",False,True
 m.argim.net,"['internet & telecom', 'software']","['arts & entertainment', 'online communities', 'social networks']",False,False
-www.ifinnmark.no,['arts & entertainment'],"['arts & entertainment', 'news', 'local news']",True,False
 www.tiket.com,['travel agencies & services'],"['travel & transportation', 'travel guides & travelogues', 'business & industrial']",False,False
 dibmovie.com,"['arts & entertainment', 'tv & video', 'movies']","['arts & entertainment', 'entertainment industry', 'movies', 'online video']",False,False
-rus.mp3xa.me,"['music & audio', 'arts & entertainment']","['arts & entertainment', 'entertainment industry', 'online communities', 'music & audio']",True,False
 raillab.jp,"['long distance bus & rail', 'travel & transportation']","['education', 'science', 'jobs & education', 'computers & electronics', 'academic conferences & publications']",False,False
-my.lazada.co.th,['shopping'],"['shopping', 'finance', 'business & industrial']",True,False
 www.br-performance.fr,['vehicle parts & accessories'],"['custom & performance vehicles', 'automotive industry', 'autos & vehicles', 'business & industrial']",False,False
 new-rutor.org,"['online communities', 'web services']","['arts & entertainment', 'entertainment industry', 'online communities']",False,False
-servicos.dpf.gov.br,['law & government'],"['legal', 'legal services', 'law & government']",True,False
 quizzclub.com,['arts & entertainment'],"['online communities', 'games', 'card games']",False,False
 tokuvn.com,['comics & animation'],"['arts & entertainment', 'entertainment industry', 'online video', 'acting & theater']",False,False
-www.deakin.edu.au,['colleges & universities'],"['education', 'colleges & universities', 'jobs & education']",True,False
-sakti.kemenkeu.go.id,['law & government'],"['law & government', 'finance', 'financial planning & management']",True,False
-2gis.ua,[],"['travel & transportation', 'travel guides & travelogues', 'tourist destinations']",False,True
 www.weddingwire.in,"['hobbies & leisure', 'people & society']","['arts & entertainment', 'weddings', 'hobbies & leisure']",False,False
-kenyan-post.com,['news'],"['online communities', 'news', 'local news']",True,False
 www.chipotle.com,"['cooking & recipes', 'food service', 'fast food', 'restaurants']","['cooking & recipes', 'business & industrial', 'food & drink']",False,False
-ww2.sunat.gob.pe,['law & government'],"['legal', 'legal services', 'law & government']",True,False
 bsip.bnip.gov.pk,['banking'],"['legal', 'legal services', 'law & government']",False,False
