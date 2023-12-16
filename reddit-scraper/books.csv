@@ -1,0 +1,6 @@
+Topic ID,Topic Name,Real or Random,Observed-by context domains (hashed if the original value is unavailable)
+243,News,Real,openx.net doubleclick.net rubiconproject.com pubmatic.com casalemedia.com businessinsider.com 25newsnow.com criteo.com
+245,Local news,Real,doubleclick.net rubiconproject.com 25newsnow.com
+100,Books & literature,Real,doubleclick.net rubiconproject.com fandom.com casalemedia.com criteo.com
+350,Celebrities & Entertainment News,Real,hollywoodreporter.com rubiconproject.com criteo.com
+249,World news,Real,rubiconproject.com casalemedia.com criteo.com

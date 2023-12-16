@@ -1,0 +1,6 @@
+Topic ID,Topic Name,Real or Random,Observed-by context domains (hashed if the original value is unavailable)
+1,Arts & entertainment,Real,openx.net doubleclick.net teads.tv rubiconproject.com fandom.com casalemedia.com criteo.com
+52,TV sci-fi & fantasy shows,Real,doubleclick.net rubiconproject.com fandom.com criteo.com
+229,Colleges & universities,Real,harvard.edu
+48,TV dramas,Real,doubleclick.net rubiconproject.com fandom.com criteo.com
+227,Education,Real,doubleclick.net harvard.edu criteo.com

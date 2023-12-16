@@ -1,0 +1,6 @@
+Topic ID,Topic Name,Real or Random,Observed-by context domains (hashed if the original value is unavailable)
+243,News,Real,doubleclick.net tennessean.com teads.tv rubiconproject.com gannett-cdn.com casalemedia.com usatoday.com criteo.com
+299,Sports,Real,doubleclick.net rubiconproject.com casalemedia.com usatoday.com
+245,Local news,Real,doubleclick.net tennessean.com teads.tv rubiconproject.com gannett-cdn.com criteo.com
+1,Arts & entertainment,Real,doubleclick.net rubiconproject.com deadspin.com casalemedia.com criteo.com
+183,Computer & video games,Real,doubleclick.net rubiconproject.com deadspin.com casalemedia.com criteo.com

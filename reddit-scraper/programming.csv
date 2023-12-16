@@ -1,0 +1,6 @@
+Topic ID,Topic Name,Real or Random,Observed-by context domains (hashed if the original value is unavailable)
+243,News,Real,doubleclick.net rubiconproject.com arstechnica.com genbeta.com informationweek.com casalemedia.com criteo.com
+126,Computers & electronics,Real,doubleclick.net rubiconproject.com genbeta.com informationweek.com casalemedia.com criteo.com
+561,Business News,Real,rubiconproject.com casalemedia.com
+140,Software,Real,doubleclick.net rubiconproject.com genbeta.com casalemedia.com criteo.com
+129,Consumer electronics,Real,doubleclick.net rubiconproject.com genbeta.com casalemedia.com criteo.com

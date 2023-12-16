@@ -1,0 +1,6 @@
+Topic ID,Topic Name,Real or Random,Observed-by context domains (hashed if the original value is unavailable)
+23,Music & audio,Real,doubleclick.net rubiconproject.com rollingstone.com spin.com criteo.com
+243,News,Real,doubleclick.net fox17.com rubiconproject.com spin.com casalemedia.com chicagotribune.com criteo.com
+400,Magazines,Real,doubleclick.net rubiconproject.com rollingstone.com casalemedia.com criteo.com
+363,TV & Video,Real,doubleclick.net fox17.com
+350,Celebrities & Entertainment News,Real,rubiconproject.com rollingstone.com criteo.com
